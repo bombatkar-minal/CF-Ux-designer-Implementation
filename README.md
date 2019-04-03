@@ -1,2 +1,4 @@
 # CF-Ux-designer-Implementation
-# Day 1
+
+# Project details  
+https://careerfoundry.com/en/dashboards/become-a-ux-designer/course-home#course_project
