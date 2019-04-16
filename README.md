@@ -3,7 +3,8 @@
 # Project details  
 https://careerfoundry.com/en/dashboards/become-a-ux-designer/course-home#course_project  
 
-# Project samples 
+# Project samples
+Expert app with portfolio : https://www.behance.net/gallery/78868537/Expert-Application-Instant-helpOn-The-Go
 Money Expert: https://projects.invisionapp.com/share/GXRHILKUD4Z#/screens/357225874  
 All Expert : https://projects.invisionapp.com/share/R6QF8K0SWDK#/screens/357941043  
 https://projects.invisionapp.com/share/98PZ52XXQC7#/screens/346461806  
