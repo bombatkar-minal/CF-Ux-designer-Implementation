@@ -3,7 +3,8 @@
 # Project details  
 https://careerfoundry.com/en/dashboards/become-a-ux-designer/course-home#course_project  
 
-# Project samples  
+# Project samples 
+Expert: https://projects.invisionapp.com/share/GXRHILKUD4Z#/screens/357225874
 https://projects.invisionapp.com/share/98PZ52XXQC7#/screens/346461806  
 https://projects.invisionapp.com/share/H4R63GBC8T6#/screens/353974972    
 https://projects.invisionapp.com/share/S3QLOYSA4VZ#/screens/347528472  
