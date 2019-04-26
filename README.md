@@ -42,6 +42,7 @@ https://www.behance.net/gallery/78037555/Herb-Recipe-application
  https://dribbble.com/playbook/info  
  https://www.strikingly.com
  # UX portfolio samples
+ https://profiles.generalassemb.ly/profiles?roles%5B0%5D=UX%20Designer
 @  http://christinemaggi.com  
    http://simonpan.com/  
    http://treppmann.design
